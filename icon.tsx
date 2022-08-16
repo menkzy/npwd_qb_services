@@ -1,6 +1,6 @@
 import React from 'react';
-import WorkIcon from '@mui/icons-material/Work';
+import BusinessCenterIcon from '@mui/icons-material/BusinessCenter';
 
 export const ServicesIcon = () => {
-  return <WorkIcon fontSize="large" />;
+  return <BusinessCyarn enterIcon fontSize="large" />;
 };

@@ -6,7 +6,7 @@ export const externalAppConfig = () => ({
   id: 'services',
   nameLocale: 'Services',
   color: '#fff',
-  backgroundColor: '#333',
+  backgroundColor: '#F7D025',
   path: '/services',
   icon: ServicesIcon,
   app: App,
